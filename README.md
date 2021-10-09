@@ -29,9 +29,11 @@ return (
 
     <h3>Jefferson GUEGAN</h3>
     
-    <img align='center' src="https://media2.giphy.com/media/xUA7be0s1t2nTT56rS/200.webp?cid=ecf05e47787xyoo6fue1efqybikfmv1xcu0p64d88r436w1m&rid=200.webp&ct=g" width="300">
 )
 
 };
 
 export default Jefferson;
+
+```
+<img align='right' src="https://media2.giphy.com/media/xUA7be0s1t2nTT56rS/200.webp?cid=ecf05e47787xyoo6fue1efqybikfmv1xcu0p64d88r436w1m&rid=200.webp&ct=g" width="300">
