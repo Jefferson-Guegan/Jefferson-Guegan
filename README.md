@@ -12,7 +12,7 @@ const Jefferson = () => {
 
 let place = Dordogne, France;
 let language = [Javascript, CSS, HTML];
-let tools = [React, Bootstrap, Material UI, Figma, Trello];
+let tools = [React, Svelte, Bootstrap, Material UI, Figma, Trello];
 let hobbies = {
                 sciences:  ["computer science", "geology", "ecology"],
                 sports: ["WNBA", "MLB", "NFL", "NBA"],
