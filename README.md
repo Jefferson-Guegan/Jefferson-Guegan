@@ -11,8 +11,8 @@ Computer Scientist Volunteer at <a href="https://www.facebook.com/LOstal-Tie4819
 const Jefferson = () => {
 
 let place = Dordogne, France;
-let language = [Javascript, CSS, HTML];
-let tools = [React, Svelte, Bootstrap, Material UI, Figma, Trello];
+let language = [Python, Bash, JCL,Javascript, CSS, HTML];
+let tools = [TSO, React, Svelte, Bootstrap, Material UI, Figma, Trello];
 let hobbies = {
                 sciences:  ["computer science", "geology", "ecology"],
                 sports: ["WNBA", "MLB", "NFL", "NBA"],
